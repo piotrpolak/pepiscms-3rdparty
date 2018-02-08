@@ -1,0 +1,10 @@
+{
+    "name": "piotrpolak/pepiscms-3rdparty",
+    "description": "3rd party components for PepisCMS",
+    "license": "Various",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
