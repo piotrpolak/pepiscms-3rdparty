@@ -43,3 +43,9 @@ Homepage: [http://qtip2.com/](http://qtip2.com/)
 Used under MIT license.
 
 Homepage: [https://jqueryui.com/](https://jqueryui.com/)
+
+## Lazyload
+
+Used under MIT license.
+
+Homepage: [https://www.andreaverlicchi.eu/lazyload/](https://www.andreaverlicchi.eu/lazyload/)
