@@ -49,3 +49,9 @@ Homepage: [https://jqueryui.com/](https://jqueryui.com/)
 Used under MIT license.
 
 Homepage: [https://www.andreaverlicchi.eu/lazyload/](https://www.andreaverlicchi.eu/lazyload/)
+
+## html5shiv
+
+Used under MIT license.
+
+Homepage: [https://github.com/aFarkas/html5shiv](https://github.com/aFarkas/html5shiv)
