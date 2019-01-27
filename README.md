@@ -44,6 +44,16 @@ Used under MIT license.
 
 Homepage: [https://jqueryui.com/](https://jqueryui.com/)
 
+The file is renamed `jquery-ui-<version>.custom.min.js` to `jquery-ui.custom.min.js`.
+
+The following components are used:
+
+* jQuery UI
+* jQuery UI Widget
+* jQuery UI Position
+* jQuery UI Autocomplete
+* jQuery UI Datepicker
+
 ## Lazyload
 
 Used under MIT license.
